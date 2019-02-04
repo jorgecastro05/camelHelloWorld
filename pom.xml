@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- Spring Boot default profile in order to use an embedded database -->
-    <run.profiles>dev</run.profiles>
+    <!-- <run.profiles>dev</run.profiles> -->
 
     <!-- configure the versions you want to use here -->
     <fabric8.version>3.0.11.fuse-000065-redhat-3</fabric8.version>
